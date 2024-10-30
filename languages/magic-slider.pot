@@ -1,0 +1,157 @@
+# Copyright (C) 2015 Magic-Slider
+# This file is distributed under the same license as the Magic-Slider package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic-Slider 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magic-slider\n"
+"POT-Creation-Date: 2015-11-12 03:45:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: magic-slider-cpt.php:7 magic-slider.php:47
+msgid "Magic Slider"
+msgstr ""
+
+#: magic-slider-cpt.php:8
+msgid "Slide"
+msgstr ""
+
+#: magic-slider-cpt.php:9 magic-slider-cpt.php:11
+msgid "Add Slide"
+msgstr ""
+
+#: magic-slider-cpt.php:10
+msgid "All Slides"
+msgstr ""
+
+#: magic-slider-cpt.php:12
+msgid "Edit Slide"
+msgstr ""
+
+#: magic-slider-cpt.php:13
+msgid "New Slide"
+msgstr ""
+
+#: magic-slider-cpt.php:14
+msgid "View Slide"
+msgstr ""
+
+#: magic-slider-cpt.php:15
+msgid "Search Slides"
+msgstr ""
+
+#: magic-slider-cpt.php:16
+msgid "No Slides found"
+msgstr ""
+
+#: magic-slider-cpt.php:17
+msgid "No Slides found in trash"
+msgstr ""
+
+#: magic-slider-cpt.php:48
+msgid "Slide categories"
+msgstr ""
+
+#: magic-slider-cpt.php:57
+msgid "Meta"
+msgstr ""
+
+#: magic-slider-cpt.php:75
+msgid "URL"
+msgstr ""
+
+#: magic-slider-cpt.php:87 magic-slider-cpt.php:89 magic-slider-cpt.php:105
+msgid "Choose image"
+msgstr ""
+
+#: magic-slider-settings.php:22
+msgid "Height"
+msgstr ""
+
+#: magic-slider-settings.php:24
+msgid "Mode"
+msgstr ""
+
+#: magic-slider-settings.php:26
+msgid "Speed"
+msgstr ""
+
+#: magic-slider-settings.php:28
+msgid "Auto transition"
+msgstr ""
+
+#: magic-slider-settings.php:30
+msgid "Pause"
+msgstr ""
+
+#: magic-slider-settings.php:32
+msgid "Pager"
+msgstr ""
+
+#: magic-slider-settings.php:63
+msgid ""
+"These settings can be overwritten via shortcode params or via "
+"magic_slider_output() function params."
+msgstr ""
+
+#: magic-slider-settings.php:64
+msgid "Additional info about Magic-Slider options"
+msgstr ""
+
+#: magic-slider-settings.php:82
+msgid "Slider height in pixels."
+msgstr ""
+
+#: magic-slider-settings.php:83 magic-slider-settings.php:103
+#: magic-slider-settings.php:114 magic-slider-settings.php:124
+#: magic-slider-settings.php:135 magic-slider-settings.php:145
+msgid "Default: %s"
+msgstr ""
+
+#: magic-slider-settings.php:102
+msgid "Transition mode."
+msgstr ""
+
+#: magic-slider-settings.php:113
+msgid "Transition speed in milliseconds."
+msgstr ""
+
+#: magic-slider-settings.php:134
+msgid "Pause between each auto transition in milliseconds."
+msgstr ""
+
+#: magic-slider-settings.php:155
+msgid "Magic-Slider Settings"
+msgstr ""
+
+#: magic-slider.php:48
+msgid "Donate"
+msgstr ""
+
+#: magic-slider.php:57 magic-slider.php:58
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Magic-Slider"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/magic-slider/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Responsive and flexible slider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webvitaly"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://web-profile.com.ua/wordpress/plugins/"
+msgstr ""
